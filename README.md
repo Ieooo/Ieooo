@@ -1,2 +1,1 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=justsoleo&theme=default&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justsoleo&layout=compact&theme=default&hide_title=true&card_width=500px)
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=justsoleo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=default&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justsoleo&hide_title=true&hide_border=true&layout=compact&&theme=default&locale=cn" />
